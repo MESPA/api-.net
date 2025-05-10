@@ -19,7 +19,7 @@ RESTful API for user management with JWT authentication and role-based authoriza
 
 1. Clone the repository
 ```bash
-git clone [your-repository-url]
+git clone 
 cd UserManagementAPI
 ```
 

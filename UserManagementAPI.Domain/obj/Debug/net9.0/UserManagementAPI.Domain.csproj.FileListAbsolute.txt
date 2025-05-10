@@ -9,3 +9,4 @@ C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\refint\UserManagementAPI.Domain.dll
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.pdb
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\ref\UserManagementAPI.Domain.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.sourcelink.json

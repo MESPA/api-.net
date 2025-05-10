@@ -15,3 +15,4 @@ C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\refint\UserManagementAPI.Application.dll
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.pdb
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\ref\UserManagementAPI.Application.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.sourcelink.json

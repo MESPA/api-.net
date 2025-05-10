@@ -15,3 +15,4 @@ C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Deb
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.pdb
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.genruntimeconfig.cache
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\ref\UserManagementAPI.Infrastructure.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.sourcelink.json
