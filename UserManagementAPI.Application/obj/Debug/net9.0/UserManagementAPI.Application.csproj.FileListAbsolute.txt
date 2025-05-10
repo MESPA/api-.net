@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Application.deps.json
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Application.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Application.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Domain.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Infrastructure.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Domain.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\bin\Debug\net9.0\UserManagementAPI.Infrastructure.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserMana.0D98F122.Up2Date
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\refint\UserManagementAPI.Application.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\UserManagementAPI.Application.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Application\obj\Debug\net9.0\ref\UserManagementAPI.Application.dll

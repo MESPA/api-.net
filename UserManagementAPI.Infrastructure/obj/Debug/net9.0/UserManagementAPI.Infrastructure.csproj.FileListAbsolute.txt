@@ -1,0 +1,17 @@
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\bin\Debug\net9.0\UserManagementAPI.Infrastructure.deps.json
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\bin\Debug\net9.0\UserManagementAPI.Infrastructure.runtimeconfig.json
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\bin\Debug\net9.0\UserManagementAPI.Infrastructure.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\bin\Debug\net9.0\UserManagementAPI.Infrastructure.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\bin\Debug\net9.0\UserManagementAPI.Domain.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\bin\Debug\net9.0\UserManagementAPI.Domain.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserMana.F6706D64.Up2Date
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\refint\UserManagementAPI.Infrastructure.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\UserManagementAPI.Infrastructure.genruntimeconfig.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Infrastructure\obj\Debug\net9.0\ref\UserManagementAPI.Infrastructure.dll

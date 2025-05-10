@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\bin\Debug\net9.0\UserManagementAPI.Domain.deps.json
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\bin\Debug\net9.0\UserManagementAPI.Domain.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\bin\Debug\net9.0\UserManagementAPI.Domain.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.AssemblyInfo.cs
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\refint\UserManagementAPI.Domain.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\UserManagementAPI.Domain.pdb
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.Domain\obj\Debug\net9.0\ref\UserManagementAPI.Domain.dll

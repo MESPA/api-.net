@@ -1,0 +1,45 @@
+@baseUrl = https://localhost:5001
+@token = your_jwt_token_here
+
+### Register a new user
+POST {{baseUrl}}/api/auth/register
+Content-Type: application/json
+
+{
+    "username": "testuser",
+    "email": "test@example.com",
+    "password": "Test123!"
+}
+
+### Login
+POST {{baseUrl}}/api/auth/login
+Content-Type: application/json
+
+{
+    "username": "testuser",
+    "password": "Test123!"
+}
+
+### Get all users (requires authentication)
+GET {{baseUrl}}/api/users
+Authorization: Bearer {{token}}
+
+### Get user by ID (requires authentication)
+GET {{baseUrl}}/api/users/{{userId}}
+Authorization: Bearer {{token}}
+
+### Update user (requires authentication)
+PUT {{baseUrl}}/api/users/{{userId}}
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+    "username": "updateduser",
+    "email": "updated@example.com",
+    "role": "User",
+    "isActive": true
+}
+
+### Delete user (requires authentication and Admin role)
+DELETE {{baseUrl}}/api/users/{{userId}}
+Authorization: Bearer {{token}}
