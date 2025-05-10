@@ -201,3 +201,4 @@ C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.API\obj\Debug\net9.0\r
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.API\obj\Debug\net9.0\UserManagementAPI.API.pdb
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.API\obj\Debug\net9.0\UserManagementAPI.API.genruntimeconfig.cache
 C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.API\obj\Debug\net9.0\ref\UserManagementAPI.API.dll
+C:\Users\DELL\Desktop\UserManagementAPI\UserManagementAPI.API\obj\Debug\net9.0\UserManagementAPI.API.sourcelink.json
